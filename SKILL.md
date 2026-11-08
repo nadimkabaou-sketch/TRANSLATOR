@@ -11,46 +11,54 @@ description: >-
 
 Autonomous engine to translate peer-reviewed scientific papers and academic articles with publication-grade fidelity.
 
-## Key Capabilities
+## RÈGLE FONDAMENTALE : TRADUCTION DIRECTE PAR L'AGENT IA
 
-1. **Exact In-Place PDF Replica** :
-   - Preserves 100% of page geometries, headers, footers, two-column layouts, and borders.
-   - Preserves **ALL high-resolution figures, schematics, diagrams, and medical images** (MRI, CT, histology) at native resolution without any deletion or alteration.
-   - Replaces English text blocks *in situ* using auto-fitted vector typography (Arial Bold for headings, Arial Regular for body, Arial Italic for captions).
-   - Guarantees **zero empty paragraphs** through robust decoupled heading/body block parsing.
-2. **Enriched Word DOCX Rebuilder** :
-   - Reconstructs fully editable `.docx` documents containing all extracted high-resolution figures embedded right next to their corresponding figure captions.
-3. **Multi-Format Publication Exports** :
-   - Outputs standalone `.html`, clean structured `.txt`, and standard `.tex` (LaTeX) sources.
-4. **Scientific Integrity & Protection** :
-   - 100% preservation of mathematical equations, numbers, units (mm, cm, T, ms, etc.), statistical intervals (p-values, 95% CI), and bibliographic citations.
-   - Enforces authoritative domain glossaries (e.g., Neuroradiology, Oncology, Physics, Computer Science).
+L'Agent IA (**Senior AI Scientific & Medical Translator**) effectue lui-même directement la traduction scientifique intégrale du document. 
+Il ne délègue JAMAIS la traduction à des modèles NMT rudimentaires ou généralistes qui risquent d'altérer le sens ou de commettre des contresens terminologiques.
+
+1. **Traduction par l'Agent IA** :
+   - Traduit le contenu textuel intégral vers un français scientifique de niveau publication académique.
+   - Respecte scrupuleusement la terminologie de la discipline (médecine, radiologie, biologie, physique, mathématiques).
+   - Règle de non-altération absolue : ne pas résumer, ne pas reformuler librement, ne pas supprimer de sections.
+   - Préservation à 100 % des chiffres, unités scientifiques, intervalles statistiques ($p < 0.05$, IC 95 %), équations mathématiques et citations bibliographiques `[1]`.
+
+2. **Exact In-Place PDF Replica** :
+   - Préserve 100 % de la géométrie originale des pages, en-têtes, pieds de page, colonnes et bordures.
+   - Préserve **TOUTES les figures, schémas, graphiques et images médicales haute résolution** (IRM, TDM, échographie, histologie) à leur résolution native, sans aucune suppression ni altération.
+   - Remplace le texte original in-situ au moyen d'une typographie vectorielle auto-ajustée (Arial Bold pour les titres, Arial Regular pour le corps, Arial Italic pour les légendes).
+   - Garantit **zéro paragraphe vide** grâce au découplage strict des blocs titre et corps de texte.
+
+3. **Enriched Word DOCX Rebuilder** :
+   - Reconstruit un document `.docx` entièrement éditable intégrant toutes les figures haute résolution extraites, positionnées précisément en regard de leurs légendes.
+
+4. **Multi-Format Publication Exports** :
+   - Génère simultanément : `<stem>_FR_integral.pdf`, `<stem>_fr.docx`, `<stem>_fr.html`, `<stem>_fr.txt`, et `<stem>_fr.tex`.
 
 ---
 
 ## Antigravity Agent Execution Instructions
 
-When the user asks to translate a scientific paper, article, or folder:
+Quand l'utilisateur demande de traduire un article ou dossier :
 
-### 1. Identify Target Path
-If the user provides a folder (e.g. `C:\Users\...\folder`), locate the `.pdf` file inside it. If a direct file path is given, use it directly.
+### 1. Traduire Directement le Contenu
+L'Agent IA traduit directement l'intégralité du texte en français académique, garantissant une fidélité scientifique absolue à 100 %.
 
-### 2. Execute Translation CLI
-Run the unified translator command:
+### 2. Injecter et Exécuter le Reconstructeur Documentaire
+Injecter les traductions validées dans la mémoire de traduction (`data/translation_memory/tm.json`) et exécuter la reconstruction :
 
 ```powershell
 python translate.py "<path_to_file_or_folder>" --lang fr --domain medicine_radiology
 ```
 
-### 3. Generated Deliverables
-The engine produces the following deliverables directly inside the source folder:
-* `<stem>_FR_integral.pdf` : Complete visual replica with all original figures and translated French text.
-* `<stem>_fr.docx` : Fully editable Word document with all high-resolution figures embedded.
-* `<stem>_fr.html` : Clean standalone HTML article.
-* `<stem>_fr.txt` : Structured markdown/plain text.
-* `<stem>_fr.tex` : Standard academic LaTeX source.
+### 3. Livrables Générés
+Le moteur produit directement dans le dossier source :
+* `<stem>_FR_integral.pdf` : Réplique visuelle vectorielle exacte in-situ avec toutes les images originales et le texte français traduit par l'IA.
+* `<stem>_fr.docx` : Document Word modifiable intégrant toutes les figures haute résolution.
+* `<stem>_fr.html` : Article Web autonome prêt à la publication.
+* `<stem>_fr.txt` : Texte clair structuré.
+* `<stem>_fr.tex` : Code source LaTeX académique standard.
 
-### 4. Response Guidelines
-* Present direct clickable links to `<stem>_FR_integral.pdf` and `<stem>_fr.docx`.
-* Summarize key paper metrics (title, authors, volume, domain, image count).
-* Provide quality assurance statistics (word count ratio, citation preservation).
+### 4. Directives de Réponse
+* Présenter des liens markdown cliquables vers `<stem>_FR_integral.pdf` et `<stem>_fr.docx`.
+* Résumer les métriques clés de l'article (titre traduit, auteurs, revue, volume, DOI, nombre d'images).
+* Fournir le tableau d'audit de contrôle qualité scientifique (conservation 100% chiffres, unités, références).
