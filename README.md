@@ -28,8 +28,8 @@ Ce moteur résout l'ensemble de ces défis grâce à :
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/nadimkabaou-sketch/scientific-paper-translator.git
-cd scientific-paper-translator
+git clone https://github.com/nadimkabaou-sketch/translator.git
+cd translator
 ```
 
 ### 2. Installer les dépendances
@@ -50,7 +50,7 @@ Ce projet est nativement conçu comme un **Skill Antigravity**. Tout autre utili
 L'utilisateur clone simplement ce dépôt dans son dossier de skills Antigravity :
 
 ```powershell
-git clone https://github.com/nadimkabaou-sketch/scientific-paper-translator.git "$HOME\.gemini\config\skills\scientific-paper-translator"
+git clone https://github.com/nadimkabaou-sketch/translator.git "$HOME\.gemini\config\skills\translator"
 ```
 
 ### Méthode 2 : Utilisation directe dans un Workspace
@@ -162,7 +162,7 @@ git commit -m "feat: Initial commit of Scientific Paper Translator Antigravity S
 # 2. Créer un dépôt sur github.com (ex: scientific-paper-translator)
 # 3. Lier et pousser vers GitHub
 git branch -M main
-git remote add origin https://github.com/nadimkabaou-sketch/scientific-paper-translator.git
+git remote add origin https://github.com/nadimkabaou-sketch/translator.git
 git push -u origin main
 ```
 
