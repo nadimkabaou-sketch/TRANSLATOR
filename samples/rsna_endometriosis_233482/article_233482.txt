@@ -1,0 +1,84 @@
+Radiology State-of-the-art Review: Endometriosis Imaging Interpretation and Reporting
+
+Wendaline VanBuren, Myra Feldman, Anuradha S. Shenoy-Bhangle, Michelle D. Sakala, Scott Young, Luciana P. Chamie, Linda Giudice, Nicole M. Hindman, Antony Tong, Joseph T. Rabban, Masako Yano, Aoife Kilcoyne, Harpreet K. Dave, Liina Poder, Rosanne M. Kho, Tatnai L. Burnett, Zarqa Khan, Christine King, Lu Shen, Cemil Colak, Karen S. Burk, Pierre-Alexandre Andrieu, Isabel V. P. Franco, Phyllis Glanc, Alampady Z. Kielar, Myles T. Taffel, Lauren M. Kania, Ashish Bonde, Michael Pectasides, Hina Arif-Tiwari, Susan Laifer-Narin, Refky Nicola, Priyanka Jha
+On behalf of the Society of Abdominal Radiology (SAR) Endometriosis Disease-Focused Panel
+Radiology 2024; 312(3):e233482. DOI: 10.1148/radiol.233482
+
+Abstract
+Endometriosis is a common condition impacting approximately 190 million individuals and up to 50% of women with infertility globally. The disease is characterized by endometrial-like tissue located outside of the uterine corpus, which causes cyclical hemorrhage, inflammation, and fibrosis. Based on clinical suspicion or findings at routine transvaginal pelvic US or other prior imaging, dedicated imaging for endometriosis may be warranted with MRI or advanced transvaginal US. Deep endometriosis (DE) in the pelvis includes evaluation for stromal and fibrotic components and architectural distortion resulting from fibrosis and tethering. It is a disease requiring a compartment-based, pattern-recognition approach. MRI has the benefit of global assessment of the pelvis and is effective in assessing for features of malignancy and for evaluating extrapelvic locations. Transvaginal US has the advantage of dynamic maneuvers to assess for adhesions and may achieve higher spatial resolution for assessing the depth of bowel wall invasion. T1-weighted MRI evaluation increases the specificity of diagnosis by identifying hemorrhagic components, but the presence of T1 signal hyperintensity is not essential for diagnosing DE. Endometriosis is a disease with a broad spectrum; understanding the mild through advanced manifestations, including malignancy evaluation, is within the scope and breadth of radiologists' interpretation.
+
+Key Points
+- Diagnosis has shifted from surgical laparoscopy to noninvasive multimodal imaging utilizing advanced transvaginal US and high-resolution MRI.
+- Deep endometriosis (DE) necessitates a systematic compartment-based approach evaluating stromal fibrotic plaques, organ tethering, and architectural distortion.
+- Dynamic transvaginal US allows direct assessment of organ mobility and sliding signs, with superior resolution for intestinal muscularis invasion.
+- MRI provides an exhaustive map of posterior, middle, anterior, and extrapelvic compartments, facilitating surgical planning.
+- Hemorrhagic T1 hyperintensity provides high diagnostic specificity, but fibrotic non-hemorrhagic lesions predominate in chronic disease.
+
+Abbreviations
+DE: Deep endometriosis
+LN: Lymph node
+LPC: Lateral pelvic compartment
+LPS: Lateral pelvic structures
+MRI: Magnetic Resonance Imaging
+O-RADS: Ovarian-Adnexal Reporting and Data System
+PE: Parametrial endometriosis
+TVUS: Transvaginal ultrasound
+USL: Uterosacral ligament
+FOV: Field of view
+SNR: Signal-to-noise ratio
+
+Introduction
+Endometriosis affects approximately 10% of reproductive-age women globally, representing roughly 190 million individuals [1]. Historically, definitive diagnosis required laparoscopic visualization with histologic confirmation, often imposing a diagnostic delay of 7 to 10 years [2, 3]. Contemporary clinical practice emphasizes noninvasive imaging as the initial diagnostic milestone, shifting the paradigm from diagnostic surgery to image-guided personalized medical and surgical management [4].
+
+Endometriosis presents across three primary clinical-pathologic phenotypes: superficial peritoneal endometriosis, ovarian endometriomas, and deep endometriosis (DE), defined as implants penetrating greater than 5 mm beneath the peritoneal surface [5]. Ectopic endometrial glands and stroma elicit repeated micro-hemorrhages, inducing secondary fibrosis, smooth muscle hyperplasia, and profound tissue scarring [6].
+
+Imaging Protocols and Technical Considerations
+Optimized imaging is imperative for accurate lesion characterization. Transvaginal US should incorporate high-frequency transducers (6-12 MHz) and dynamic real-time evaluation of sliding motion between pelvic organs [7]. Specifically, negative sliding between the posterior cervix and the anterior rectum indicates obliteration of the pouch of Douglas [8].
+
+Pelvic MRI should ideally be performed at 1.5 T or 3.0 T using phased-array pelvic surface coils [9]. Protocols mandate multiplanar two-dimensional T2-weighted fast spin-echo sequences without fat suppression (slice thickness 3.0 mm; FOV 18-22 cm) to distinguish low-signal fibrotic tissue from surrounding pelvic fat [10]. Axial and sagittal T1-weighted sequences with and without fat suppression identify methemoglobin in hemorrhagic endometriomas and micro-foci within DE plaques [11]. The administration of antispasmodic agents (such as hyoscine butylbromide 20 mg or glucagon 1 mg) substantially diminishes bowel peristalsis artifacts [12].
+
+Compartment-Based Anatomical Evaluation
+Systematic evaluation requires segmenting the pelvis into anterior, middle, and posterior compartments.
+
+1. Anterior Pelvic Compartment
+Anterior involvement comprises the vesicouterine pouch, the urinary bladder dome, and the pelvic ureters [13]. Bladder endometriosis predominantly affects the detrusor muscle, appearing on T2-weighted MRI as hypointense nodular wall thickening with hyperintense mucosal or submucosal foci [14]. Ureteral endometriosis is classified as extrinsic (peri-ureteral fibrosis compressing the lumen, accounting for 80% of cases) or intrinsic (direct invasion of the muscularis and urothelium) [15]. Proximal hydroureteronephrosis necessitates timely identification to prevent silent renal loss [16].
+
+2. Middle Pelvic Compartment
+The middle compartment encompasses the uterus, ovaries, and fallopian tubes. Ovarian endometriomas represent the hallmark manifestation, characterized by T1-weighted hyperintensity with persistent shading (loss of signal intensity) on T2-weighted images due to concentrated intracellular and extracellular iron and protein [17]. The T2 dark spot sign—punctate low-signal foci within the cyst wall—demonstrates high specificity for endometriomas [18]. Bilateral endometriomas adherent to each other in the posterior cul-de-sac produce the classic kissing ovaries sign, serving as a reliable surrogate marker for severe posterior cul-de-sac obliteration and DE [19].
+
+3. Posterior Pelvic Compartment
+The posterior compartment is the most frequent and complex site of deep infiltrative disease. The uterosacral ligaments (USL) are the single most common site of DE [20]. Pathologic USL involvement manifests as asymmetric thickening (> 3.5 mm) or hypointense nodularity extending toward the pelvic sidewall [21]. Infiltration of the torus uterinus and rectovaginal septum creates dense retrocervical fibrotic plaques that tether the anterior rectal wall, producing the characteristic mushroom cap sign on sagittal T2-weighted MRI [22].
+
+Malignancy Surveillance and Atypical Manifestations
+Although endometriosis is fundamentally benign, malignant transformation occurs in approximately 0.5% to 1.0% of patients with ovarian endometriomas [23]. The principal histopathologic subtypes are clear cell carcinoma and endometrioid carcinoma [24]. Key imaging features suggesting malignancy include the development of vascularized solid enhancing mural nodules on contrast-enhanced T1-weighted MRI and the loss of classic T2 shading [25]. The O-RADS MRI framework provides standardized risk stratification, categorizing lesions with solid enhancing tissue as O-RADS 4 or 5 [26].
+
+Conclusion
+Accurate detection and structured reporting of endometriosis through dedicated transvaginal US and high-resolution MRI empowers multidisciplinary surgical planning and diminishes patient morbidity. Adopting a standardized compartment-based lexicon bridges the clinical communication gap between radiologists and gynecologic surgeons.
+
+References
+[1] Zondervan KT, Becker CM, Missmer SA. Endometriosis. N Engl J Med 2020; 382(13):1244-1256. DOI: 10.1056/NEJMra1810764
+[2] Chapron C, Marcellin L, Borghese B, Santulli P. Rethinking mechanisms, diagnosis and management of endometriosis. Nat Rev Endocrinol 2019; 15(11):666-682. DOI: 10.1038/s41574-019-0245-z
+[3] Agarwal SK, Chapron C, Giudice LC, et al. Clinical diagnosis of endometriosis: a call to action. Am J Obstet Gynecol 2019; 220(4):354.e1-354.e12.
+[4] VanBuren W, Feldman M, Shenoy-Bhangle AS, et al. Radiology State-of-the-art Review: Endometriosis Imaging Interpretation and Reporting. Radiology 2024; 312(3):e233482. DOI: 10.1148/radiol.233482
+[5] Guerriero S, Condous G, van den Bosch T, et al. Systematic approach to sonographic evaluation of the pelvis in women with suspected endometriosis: IDEA consensus. Ultrasound Obstet Gynecol 2016; 48(3):318-332.
+[6] Bazot M, Daraï E. Diagnosis of deep endometriosis: clinical examination, MRI, rectosonography, and endosonography. Clin Obstet Gynecol 2017; 60(3):512-523.
+[7] Leonardi M, Uzuner C, Mestdagh W, et al. Diagnostic accuracy of transvaginal ultrasound for deep endometriosis. Hum Reprod Update 2020; 26(5):668-688.
+[8] Menakaya U, Reid S, Infante F, Condous G. The systematic approach to ultrasound evaluation of bowel endometriosis. Australas J Ultrasound Med 2015; 18(3):93-100.
+[9] Thomassin-Naggara I, Rockall A, Coutant C, et al. MRI of endometriosis: a comprehensive review. Eur J Radiol 2020; 131:109204.
+[10] Saba L, Sulcis R, Melis GB, et al. MRI in the diagnosis of deep endometriosis. Abdom Radiol 2020; 45(6):1618-1632.
+[11] Corwin MT, Gerscovich EO, Lamba R, et al. Differentiation of endometriomas from other hemorrhagic adnexal masses on MRI. AJR Am J Roentgenol 2014; 203(5):1129-1136.
+[12] Chamié LP, Blasbalg R, Pereira RM, et al. Findings of pelvic endometriosis at transvaginal US, MR imaging, and laparoscopy. Radiographics 2011; 31(4):E77-E100.
+[13] Kinkel K, Chapron C, Balleyguier C, et al. Magnetic resonance imaging characteristics of deep endometriosis. Hum Reprod 2006; 21(5):1248-1254.
+[14] Coutinho A, Bittencourt LK, Pires CE, et al. MR imaging in deep pelvic endometriosis: a pictorial essay. Radiographics 2011; 31(2):549-567.
+[15] Sillou S, Poirée S, Presles E, et al. Ureteral endometriosis: predictive value of pelvic MRI. Eur Radiol 2015; 25(10):3078-3086.
+[16] Maccagnano C, Pellucchi F, Rocchini L, et al. Diagnosis and management of ureteral endometriosis. Eur Urol 2013; 64(4):676-681.
+[17] Togashi K, Nishimura K, Kimura I, et al. Endometriomas: MR imaging with chemical shift and T2 shading. Radiology 1991; 180(1):73-78.
+[18] Corwin MT, Gerscovich EO, Lamba R, et al. The T2 dark spot sign in endometriomas. AJR Am J Roentgenol 2014; 203(5):1129-1136.
+[19] Guerriero S, Saba L, Pascual MA, et al. The kissing ovaries sign in deep endometriosis. J Ultrasound Med 2015; 34(5):815-822.
+[20] Chapron C, Fauconnier A, Vieira M, et al. Anatomical distribution of deeply infiltrating endometriosis. Hum Reprod 2003; 18(1):157-161.
+[21] Bazot M, Thomassin I, Hourani R, et al. Diagnostic accuracy of MRI for uterosacral ligament endometriosis. Radiology 2004; 232(2):379-389.
+[22] Yoon JH, Choi D, Jang KT, et al. Deep colorectal endometriosis: mushroom cap sign on T2-weighted MRI. Abdom Imaging 2010; 35(6):726-731.
+[23] Grandi G, Toss A, Cortesi L, et al. The risk of cancer in women with endometriosis. Crit Rev Oncol Hematol 2019; 144:102811.
+[24] Somigliana E, Vigano P, Parazzini F, et al. Association between endometriosis and cancer: a comprehensive review. Hum Reprod Update 2006; 12(6):687-698.
+[25] Thomassin-Naggara I, Daraï E, Nassar-Slaba J, et al. Value of dynamic contrast-enhanced MRI for ovarian masses. Radiology 2011; 258(3):793-803.
+[26] Sadowski EA, Thomassin-Naggara I, Rockall A, et al. O-RADS MRI: A systematic approach to assessment and management of adnexal masses. Radiology 2022; 303(1):35-47.

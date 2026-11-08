@@ -1,0 +1,12 @@
+{
+  "deep learning": "apprentissage profond",
+  "machine learning": "apprentissage automatique",
+  "neural network": "réseau de neurones",
+  "convolutional neural network": "réseau de neurones convolutif",
+  "loss function": "fonction de perte",
+  "backpropagation": "rétropropagation",
+  "ground truth": "vérité terrain",
+  "overfitting": "surapprentissage",
+  "benchmark": "banc d'essai",
+  "state-of-the-art": "état de l'art"
+}

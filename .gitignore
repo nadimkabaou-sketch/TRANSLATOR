@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Output directories & caches
+data/outputs/*
+!data/outputs/.gitkeep
+data/uploads/*
+!data/uploads/.gitkeep
+data/cache/*
+!data/cache/.gitkeep
+*.log
+
+# Temporary test artifacts
+test_*.pdf
+test_*.png
+test_*.docx
+preview_*.png
+
+# Operating System
+.DS_Store
+Thumbs.db
